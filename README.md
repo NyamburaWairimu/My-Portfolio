@@ -1,8 +1,8 @@
-Rosemary Nyambura – Portfolio Website
+**Rosemary Nyambura – Portfolio Website**
 
 Welcome to my personal portfolio! This is a responsive and vibrant website built with HTML and CSS to showcase my skills, projects, education, and contact information.
 
- Features
+** Features**
 
 - Circular profile image in grid layout
 - "About Me" and "Education" sections with centered headings and styled cards
